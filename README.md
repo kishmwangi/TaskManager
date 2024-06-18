@@ -25,3 +25,16 @@ Add a new category:
 List all tasks (optionally filter by category):
 
 delet task
+
+
+## Development
+
+To develop and test the application:
+1. Activate the virtual environment:
+    ```
+    pipenv shell
+    ```
+
+## License
+
+MIT License
