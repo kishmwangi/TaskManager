@@ -1,4 +1,4 @@
-from taskmanager.database.py import SessionLocal
+from taskmanager.database import SessionLocal
 from taskmanager.models import Category, Task
 
 class TaskManager:
