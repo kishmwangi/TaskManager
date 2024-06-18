@@ -18,3 +18,10 @@ Initialize the database:
 Add a new category:
 
 list all categories 
+
+Add a new category:
+
+
+List all tasks (optionally filter by category):
+
+delet task
