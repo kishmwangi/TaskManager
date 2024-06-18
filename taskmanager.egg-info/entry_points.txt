@@ -1,0 +1,2 @@
+[console_scripts]
+taskmanager = taskmanager.cli:cli
