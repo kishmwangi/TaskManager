@@ -1,7 +1,6 @@
 import sys
 import os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
 import click
 from taskmanager.manager import TaskManager
 from taskmanager.database import init_db
